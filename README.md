@@ -17,7 +17,7 @@
 #### Anaconda should be downloaded and with it, Jupyter notebooks should be a familiar topic to any user that wants to use this project. The dataset was downloaded from the Kaggle website, and it is under the CC0: Public Domain License. 
 
 ## References
-### Géron, Aurélien. *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems*. 3rd ed., O’Reilly Media, 2022.
+#### Géron, Aurélien. *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems*. 3rd ed., O’Reilly Media, 2022.
 
 ## Dataset Citation
 #### Bhatia, Gagan. (2017, October). Car sales, Version 1. Retrieved October 13, 2023 from https://www.kaggle.com/datasets/gagandeep16/car-sales/data
