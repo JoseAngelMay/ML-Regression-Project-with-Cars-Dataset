@@ -14,7 +14,7 @@
 #### I hope to implement even more insightful attributes, and to calculate even better feature engineering. While several algorithms were applied, I would like to see or personally apply other algorithms with optimzed hyperparameters, with the goal of having an even lower root mean square error and an even better generalization.
 
 ## Use
-#### Anaconda should be downloaded and with it, Jupyter notebooks should be a familiar topic to any user that wants to use this project. The dataset was downloaded from the Kaggle website, and it is under the CC0: Public Domain License. 
+#### Anaconda should be downloaded and with it, Jupyter notebooks should be a familiar topic to any user that wants to use this project. The dataset was downloaded from the Kaggle website, and it is under the CC0: Public Domain License. This specific project falls under the MIT License and should be treated accordingly.
 
 ## References
 #### Géron, Aurélien. *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems*. 3rd ed., O’Reilly Media, 2022.
