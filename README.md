@@ -16,6 +16,25 @@
 ## Use
 #### Anaconda should be downloaded and with it, Jupyter notebooks should be a familiar topic to any user that wants to use this project. The dataset was downloaded from the Kaggle website, and it is under the CC0: Public Domain License. This specific project falls under the MIT License and should be treated accordingly.
 
+## Features
+#### Manufacturer - one of 26 different car manufacturers - categorical
+#### Model - one of 118 different vehicle models - categorical
+#### Sales_in_thousands - the amount that was sold divided by 1000 - numeric
+#### __year_resale_value - the resell value of a vehicle - numeric
+#### Vehicle_type - one of two types of vehicles - categorical
+#### Price_in_thousands - cost of the car in an instance divided by 1000 - numeric
+#### Engine_size - volumetric measurement of a car's engine - numeric
+#### Horsepower - metric of power exhibited by an instance's vehicle - numeric
+#### Wheelbase - distance between front and back wheels - numeric
+#### Width - horizontal distance between one end of a vehicle to the other - numeric
+#### Length - vertical distance betweeen the front end of a car to the back end - numeric
+#### Curb_weight - weight of a vehicle without the inclusion of any passengers, items - numeric
+#### Fuel_capacity - volumetric measurement of how much fuel a vehicle can hold - numeric
+#### Fuel_efficiency - quantity relating to distance traveled per unit of fuel - numeric
+#### Latest_Launch - date of a car's release - categorical
+#### Power_perf_factor - measurement relating to utilizable power - numeric
+
+
 ## References
 #### Géron, Aurélien. *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems*. 3rd ed., O’Reilly Media, 2022.
 
